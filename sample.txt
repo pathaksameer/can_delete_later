@@ -1,1 +1,1 @@
-changes to sample file from the feature/database-connection branch
+Making sample changes
