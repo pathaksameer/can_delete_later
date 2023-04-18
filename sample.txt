@@ -1,9 +1,5 @@
 Making sample change. Making changes again
 
-These changes are for release 1
-
-#Commenting these changes for a later release. Merge from later_changes branch
-#Continue doing new changes here
 
 These changes were made in the main branch
 
