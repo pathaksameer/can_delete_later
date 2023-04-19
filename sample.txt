@@ -1,7 +1,6 @@
 Making sample change. Making changes again
 
-New changes added for release_1.
-These changes will be merged with main during release
+New changes added here
 
 These changes were made in the main branch
 
