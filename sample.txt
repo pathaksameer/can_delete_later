@@ -1,6 +1,6 @@
 Making sample change. Making changes again
 
 New changes added here
-
+Changes on this line were updated to create a conflict
 These changes were made in the main branch
 
